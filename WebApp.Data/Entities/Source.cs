@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WebApp.Data.Entities;
+
+public class Source
+{
+    public Guid Id { get; set; }
+    public string Name { get; set; }
+    public string OriginalUrl { get; set; }
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsPortal", "NewsPortal\NewsPortal.csproj", "{A97DE62B-C883-450D-951D-08479F8EE1D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.Data", "WebApp.Data\WebApp.Data.csproj", "{D3E2706D-C2CD-4281-8C0C-60751987E8B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97DE62B-C883-450D-951D-08479F8EE1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97DE62B-C883-450D-951D-08479F8EE1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97DE62B-C883-450D-951D-08479F8EE1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97DE62B-C883-450D-951D-08479F8EE1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E2706D-C2CD-4281-8C0C-60751987E8B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E2706D-C2CD-4281-8C0C-60751987E8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E2706D-C2CD-4281-8C0C-60751987E8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E2706D-C2CD-4281-8C0C-60751987E8B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
